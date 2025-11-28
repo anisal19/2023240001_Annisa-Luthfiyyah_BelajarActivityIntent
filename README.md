@@ -1,2 +1,1 @@
-# 2023240001_Annisa-Luthfiyyah_BelajarActivityIntent
-mencoba belajar membuat activity intent tugas
+# 2023240001_AnnisaLuthfiyyah_BelajarActivityIntent
